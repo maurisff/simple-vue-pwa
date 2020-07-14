@@ -1,7 +1,6 @@
 module.exports = {
   pwa: {
-    name: 'Simple PWA',
-    workboxPluginMode: 'InjectManifest'
+    name: "Simple PWA"
   },
   transpileDependencies: ["vuetify"]
 };
